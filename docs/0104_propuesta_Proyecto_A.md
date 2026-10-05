@@ -2,11 +2,11 @@
 
 ## 0 · Datos
 
-| Campo | Valor |
-|---|---|
-| Nombre de la app | Seriesee |
+| Campo | Valor                    |
+|---|--------------------------|
+| Nombre de la app | SeeShow                  |
 | Autor/a | Ainhoa Martinez Fernandez |
-| Fecha | 28/09/26 |
+| Fecha | 28/09/26                 |
 
 ## 1 · La idea en una frase
 
@@ -46,12 +46,13 @@ Marta, 25, generacion z, soltura con las apps, la abre después de acabar una se
 
 ## 5 · Pantallas
 
-| Pantalla | Para qué sirve | Se llega desde |
-|---|---|---|
-| Lista Series vistas | Ver las series que has visto y las que tienes pendientes. | Menú inferior, sección específica en la home. |
-| Rating por capítulos | Consultar las valoraciones de los capítulos para tener una concepción previa antes de ver una serie. | Menú inferior, sección específica en la home. |
-| Home con diferentes secciones | Vista general de la app y acceso a sus diferentes funcionalidades. | Menú inferior. |
-| Foro | Leer y escribir comentarios sobre capítulos específicos y compartir opiniones. | Menú inferior, serie individual o sección específica en la home. |
+| Pantalla                      | Para qué sirve                                                                                       | Se llega desde |
+|-------------------------------|------------------------------------------------------------------------------------------------------|---|
+| Lista Series vistas           | Ver las series que has visto y las que tienes pendientes.                                            | Menú inferior, sección específica en la home. |
+| Rating por capítulos          | Consultar las valoraciones de los capítulos para tener una concepción previa antes de ver una serie. | Menú inferior, sección específica en la home. |
+| Home con diferentes secciones | Vista general de la app y acceso a sus diferentes funcionalidades.                                   | Menú inferior. |
+| Foro                          | Leer y escribir comentarios sobre capítulos específicos y compartir opiniones.                       | Menú inferior, serie individual o sección específica en la home. |
+| Buscador                      | Categorias, recomendaciones, buscar una serie en concreto                                            | Menú inferior. |
 
 ## 6 · Bocetos
 
